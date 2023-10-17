@@ -10,9 +10,10 @@
         <li><a href="modul_2/modul2.php">Modul 2</a></li>
         <li><a href="modul3/index.php">Modul 3</a></li>
         <li><a href="modul4/index.php">Modul 4</a></li>
-        <li><a href="øving/test.php">notater</a></li>
+        <li><a href="modul5/index.php">Modul 5</a></li>
 
-    
+        <li><a href="timeoppgaver/index.php">notater fra timen</a></li>
+
     </ul>
 
  

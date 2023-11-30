@@ -1,0 +1,17 @@
+<?php 
+
+
+//cookies - informasjonskapsler 
+
+echo "<pre>";
+print_r($_GET);
+echo "</pre>";
+
+echo $_GET ["id"];
+
+setcookie ("varehus","sørlandsparken", time() + 5184000, "/prosjekt");
+
+//dette er antall sekunder i 60 døgn
+//hvor på serveren skal denne dokumentasjonen være ledig. Den gjelder da under filen i prosjekt og nedover 
+
+echo "<br>" . $_COOKIE; ["varehus"]; 
